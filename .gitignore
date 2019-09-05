@@ -1,0 +1,12 @@
+#
+.DS_Store
+node_modules
+reports
+coverage
+node_modules.zip
+yarn-error.log
+dist/build
+package-lock.json
+Dockerfile
+stats.json
+.VSCodeCounter
